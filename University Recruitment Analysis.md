@@ -25,7 +25,8 @@ The 2 datasets with updated data from April 5 and June 6 have been added to the 
 Here the objective is to understand the overall status of the Applications  submitted to the University across all programs. 
 The primary metric we need to analyze here is how many offers have been accepted and declined. 
 
-![image.png](attachment:image.png)
+![image](https://github.com/shivamsg08/University-Recruitment-Analysis/assets/8438005/bce08bf8-8b2a-4c28-8522-5a6119171075)
+
 
 **Key Insights from the above Dashboard**
 1. ~500 new applications received between April 5 and June 6
@@ -42,7 +43,8 @@ We analyze the Offer Conversion Funnel as of June 6 and April 5
 In this Dashboard, our objective is to understand the distribution of Applications across the 10 territories and where most 
 of the students accept their offers.
 
-![image.png](attachment:image.png)
+![image](https://github.com/shivamsg08/University-Recruitment-Analysis/assets/8438005/9225833f-b2b1-4847-b393-e4b97276a53b)
+
 
 **Key Insights from the above Dashboard**
 1. North American and South Asian Region students prefer to study bachelor Programs at our University
@@ -59,7 +61,8 @@ Even though NA regions students apply in large numbers, their offer acceptance i
 
 In this Dashboard, we aim to understand how various programs are performing and which programs are popular among students 
 
-![image.png](attachment:image.png)
+![image](https://github.com/shivamsg08/University-Recruitment-Analysis/assets/8438005/4a796704-ca5a-4f05-b868-92a437f51906)
+
 
 **Key Insights from the above Dashboard**
 1. Faculty of Science is the most applied Bachelor Program in the University
@@ -76,7 +79,8 @@ The dashboard below will help us understand the application status at a city pin
 
 We also try to figure out areas of opportunities so that University representatives can be allocated accordingly
 
-![image.png](attachment:image.png)
+![image](https://github.com/shivamsg08/University-Recruitment-Analysis/assets/8438005/66035c5b-c46a-4d74-8262-4d37d23a5cf0)
+
 
 Author: Shivam Goyal
     
